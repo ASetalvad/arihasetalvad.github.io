@@ -32,9 +32,9 @@ Similarly, 2012 had the highest decrease
 Jessica, with 33,920 counts
 
 ### Find out who in our class had the most popular baby name in 2013.
-![Imgur](http://i.imgur.com/vKE6TzA.png)
-Jessica, with 87,6097
 ![Imgur](http://i.imgur.com/lskYCR4.png)
 Allison, with 5,405 counts
 
 ### Find out who in our class has the name that the most babies throughout U.S. history have.
+![Imgur](http://i.imgur.com/vKE6TzA.png)
+Jessica, with 87,6097
