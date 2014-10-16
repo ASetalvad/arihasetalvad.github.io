@@ -25,7 +25,7 @@ Using a commonly used variant of my name, I found that 2013 showed the highest i
 Similarly, 2012 had the highest decrease
 
 ### Make a line chart showing how your name has changed in popularity over the years
-
+![Imgur](http://i.imgur.com/Gi9o3PI.png)
 
 ### Find out who in our class had the most popular baby name in 1980.
 ![Imgur](http://i.imgur.com/Ai5vckV.png)
@@ -38,3 +38,24 @@ Allison, with 5,405 counts
 ### Find out who in our class has the name that the most babies throughout U.S. history have.
 ![Imgur](http://i.imgur.com/vKE6TzA.png)
 Jessica, with 87,6097
+
+### In your home state, find out how many babies had your name in the year that you were born.
+![Imgur](http://i.imgur.com/Y39CH2b.png)
+In 1990, there were zero babies that had my "name" (Arya) in New York
+
+### In your home state, find out how many babies had your name in 2013
+82 females and 8 males in NY in 2013
+
+### Find the state in which your name is the most popular in 2013
+![Imgur](http://i.imgur.com/E3WkWYB.png)
+California
+
+### Find the state in which your name is least popular (but still registers, i.e. has a minimum of 5 babies) in 2013
+South Carolina
+
+### Make a line chart with two lines:
+
+The popularity of your name in your home state
+![Imgur](http://i.imgur.com/wMtfL1O.png)
+
+The popularity of your name in California
