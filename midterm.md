@@ -12,8 +12,8 @@ And then added the total number of these items that each county has, grouped by 
 ![Imgur](http://i.imgur.com/FJmw0vp.png)
 
 ### 3. Query the database to get the top 10 counties ordered by the total number of guns acquired through the 1033 program. Your answer should look very similar to what NPR found under the Total Guns Acquired graph (e.g. 3,452 guns for Los Angeles)
-
-
+I first ran a query to find all the items that contained the words gun, rifle or pistol, since those were the words I noticed in the raw data. I then created a column of the totals of those items and grouped them by county, then limited the results to just include the top ten.
+![Imgur](http://i.imgur.com/68ef3Z1.png)
 
 ### 4. Query the database to get the top 10 counties ordered by number of guns acquired per 1,000 people using the Census's 2013 population estimate. Again, your answers should look similar (but not exact) to what NPR found, e.g. 28 guns/1,000 people in Franklin, KY.
 
