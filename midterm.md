@@ -1,8 +1,5 @@
 ### Query the database and create a list of every county (with state) that has acquired at least one mine-resistant armored vehicle. Then map that list
-This is the original query I ran to get the list of counties with Mine Resitant Vehicles
-![Imgur](http://i.imgur.com/a7esgcS.png)
-I then joined the leso table to the county_boundaries table in order to get the geometry of the states, to map them in the fusion table
-![Imgur](http://i.imgur.com/5Q6XoXV.png)
+
 
 
 ### Query the database and find the most expensive single item that can be acquired through the 1033 program. Then generate a list of all counties that has so far acquired at least one of these things
