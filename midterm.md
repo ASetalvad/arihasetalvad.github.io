@@ -1,7 +1,7 @@
 ### 1. Query the database and create a list of every county (with state) that has acquired at least one mine-resistant armored vehicle. Then map that list
 I first used SQLite to get the list of all the counties that possessed at least one Mine Resistant Vehicle. I realized that the MRV were entered into the data as both 'Mine Resistant Vehicles' and 'Mine Resistant Vehi', so I had to account for both those listings
-![Imgur](http://i.imgur.com/Pw419O1.png)
-I then produced a [Google Fusion Heat Map](https://www.google.com/fusiontables/DataSource?docid=1Mw31BUJnLUbfHhMwE_QyRUDFDk3QpQ7xOwn6D4c5#map:id=3) that mapped the counties that had the MRVs
+![Imgur](http://i.imgur.com/93maBKW.png)
+I then produced a [Google Fusion Heat Map](https://www.google.com/fusiontables/DataSource?docid=1dR5unVhqwWP-f5K_Ec4lBKYy4sIP0uQAbs_A-HuU) that mapped the counties that had the MRVs
 
 ### 2. Query the database and find the most expensive single item that can be acquired through the 1033 program. Then generate a list of all counties that has so far acquired at least one of these things
 I first ran a query to find what the single most expensive item listed in the data was. Turns out it was 'Aircraft, rotary wing' and each one costs 18000000.
