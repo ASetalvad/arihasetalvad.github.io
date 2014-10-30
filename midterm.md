@@ -16,6 +16,8 @@ I first ran a query to find all the items that contained the words gun, rifle or
 ![Imgur](http://i.imgur.com/68ef3Z1.png)
 
 ### 4. Query the database to get the top 10 counties ordered by number of guns acquired per 1,000 people using the Census's 2013 population estimate. Again, your answers should look similar (but not exact) to what NPR found, e.g. 28 guns/1,000 people in Franklin, KY.
+![Imgur](http://i.imgur.com/szICIP5.png)
+
 
 ### 5. Create a time-series/histogram showing something you find interesting in the 1033 Program data. Examples: Number of gas masks versus night-goggles distributed by year. Monetary value of pants and trousers versus rifles, by year.
 
