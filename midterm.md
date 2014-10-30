@@ -6,7 +6,7 @@ I then produced a [Google Fusion Heat Map](https://www.google.com/fusiontables/D
 ### 2. Query the database and find the most expensive single item that can be acquired through the 1033 program. Then generate a list of all counties that has so far acquired at least one of these things
 I first ran a query to find what the single most expensive item listed in the data was. Turns out it was 'Aircraft, rotary wing' and each one costs 18000000.
 ![Imgur](http://i.imgur.com/d53b8JX.png)
-I then ran a query to get the list of all the counties that has at least one Aircraft, rotary wing
+I then ran a query to get the list of all the counties that has at least one Aircraft, rotary wing. There were multiple counties that possessed at least one of these items, but not all counties paid the same price for their Aircraft Rotary Wing (i.e.- they didn't all pay 18000000)
 ![Imgur](http://i.imgur.com/aECVn0B.png)
 And then added the total number of these items that each county has, grouped by county
 ![Imgur](http://i.imgur.com/FJmw0vp.png)
@@ -20,6 +20,9 @@ I first ran a query to find all the items that contained the words gun, rifle or
 
 
 ### 5. Create a time-series/histogram showing something you find interesting in the 1033 Program data. Examples: Number of gas masks versus night-goggles distributed by year. Monetary value of pants and trousers versus rifles, by year.
+I used a query similar to the one I used to find the guns per 1000 people to find total guns by the female population in 2013 in each county
+![Imgur](http://i.imgur.com/TJtNKKZ.png)
+I then exported that data into Google spreadsheets and used it to create a [bar chart](https://docs.google.com/spreadsheets/d/1kK6th-fSlkSTBxxrWVN16FcEn_9RBO6eGIHAmsJiwww/edit?usp=sharing) that depicts the number of guns per female population, sorted by county. 
 
 ### 6. Find all of the counties that have not acquired a single thing in the leso table, and then map those counties.
 Assuming that all the counties listed in leso received something from the 1033 program, I ran a query to find the list of counties that were listed in county_ansi but not in leso
